@@ -8,3 +8,6 @@
 
 ## Mobile Application
 1. [Planetarium : My First Flutter Apk](https://github.com/Herutriana44/planetarium-apk)
+
+## Networking
+1. [DTS Kominfo - Junior Network Administrator 2021 - Cisco Packet Tracer](https://github.com/Herutriana44/cisco-packet-tracer-project-dts-kominfo)
